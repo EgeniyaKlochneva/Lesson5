@@ -1,0 +1,4 @@
+Ivanov 	50000
+Petrov 	19000
+Ovsov	17000
+Kuchin	14000
